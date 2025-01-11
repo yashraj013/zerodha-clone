@@ -1,0 +1,40 @@
+body{
+    background-color: #0e0e0e;
+}
+
+#full{
+    padding-left: 150px;
+    padding-right: 150px;
+    display: flex;
+    justify-content: space-between;
+}
+#upper{
+
+    padding-top: 10px;
+    
+}
+
+#vs{
+    color: white;
+    font-size: 23px;
+    font-weight: 200px;
+}
+
+.toplink{
+    color: gray;
+    padding-left: 37px;
+    font-size: 17px;
+    font-weight: 16px;
+    cursor: pointer;
+    
+}
+.button{
+    background-color: blue;
+    color: white;
+
+}
+
+#ver{
+    padding-top: 27px;
+    color: rgba(255, 255, 255, 0.595);
+}
